@@ -10,6 +10,14 @@
         {
             "title":"Watch",
             "price":40
+        },
+        {
+            "title":"Mobile",
+            "price":10000
+        },
+        {
+            "title":"Mouse",
+            "price":1200
         }
     ],
     "profile": {
