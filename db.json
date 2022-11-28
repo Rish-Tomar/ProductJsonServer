@@ -24,6 +24,40 @@
             "title":"Mouse",
             "price":1200,
             "image":"https://cdn.pixabay.com/photo/2013/07/12/17/41/computer-mouse-152249_960_720.png"
+        },
+        { 
+            "id":4,
+            "title":"Keyboard",
+            "price":876,
+            "image":"https://cdn.pixabay.com/photo/2022/06/11/14/22/keyboard-7256457_960_720.png" 
+        },
+        {
+            "id":5,
+            "title":"Laptop",
+            "price":60000,
+            "image":"https://images.freeimages.com/images/previews/e49/isolated-macbook-pro-1615424.jpg"
+            
+        },
+        {
+            "id":6,
+            "title":"Chair",
+            "price":7000,
+            "image":"https://media.istockphoto.com/id/1297324374/photo/ergonomic-computer-chair.jpg?s=612x612&w=is&k=20&c=hTZ31TH3TbTI--cxgWJqnMOsmIsaGBrm0_Szpfrn2rk="
+            
+        },
+        {
+            "id":7,
+            "title":"Sofa",
+            "price":22000,
+            "image":"https://cdn.pixabay.com/photo/2014/12/21/23/50/couch-576136_960_720.png"
+            
+        },
+        {
+            "id":8,
+            "title":"Cycle",
+            "price":7500,
+            "image":"https://images.unsplash.com/photo-1618762044398-ec1e7e048bbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGJpY3ljbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+            
         }
     ],
     "profile": {
