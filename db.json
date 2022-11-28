@@ -8,9 +8,6 @@
       { "id": 1, "body": "some comment", "postId": 1 },
       { "id": 2, "body": "some comment", "postId": 1 }
     ],
-    "products":[
-      { "title":"Watch", "description":"RolexWatch", "price":800, "rating":2}
-    ],
     "profile": {
       "name": "typicode"
     }
