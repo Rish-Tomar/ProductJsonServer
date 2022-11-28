@@ -9,15 +9,18 @@
     "products":[
         {
             "title":"Watch",
-            "price":40
+            "price":40,
+            "image":"https://cdn.pixabay.com/photo/2016/11/29/13/39/analog-watch-1869928_960_720.jpg"
         },
         {
             "title":"Mobile",
-            "price":10000
+            "price":10000,
+            "image":"https://cdn.pixabay.com/photo/2017/04/03/15/52/mobile-phone-2198770_960_720.png"
         },
         {
             "title":"Mouse",
-            "price":1200
+            "price":1200,
+            "image":"https://cdn.pixabay.com/photo/2013/07/12/17/41/computer-mouse-152249_960_720.png"
         }
     ],
     "profile": {
